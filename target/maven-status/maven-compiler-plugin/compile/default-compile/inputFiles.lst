@@ -1,0 +1,8 @@
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/model/JWebKey.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/model/StatusMessage.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/model/Item.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/service/JWESecurity.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/model/User.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/util/MongoDBSingleton.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/util/ApacheConnection.java
+/home/lucams/workspace/JweSecurity/src/main/java/com/procergs/util/ApacheHTTPSConnection.java

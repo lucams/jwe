@@ -1,0 +1,77 @@
+ {
+    "_id" : "10029T1",
+    "item-id" : "123",
+    "item-name" : "KitchenAid Artisan 5 qt. Stand Mixer",
+    "price" : 314.99,
+    "quantity" : 13
+}
+{
+    "_id" : "12349K1",
+    "item-id" : "k10001",
+    "item-name" : "Keurig K10 MINI Plus Brewing System",
+    "price" : 79.99,
+    "quantity" : 36
+}
+{
+    "_id" : "83949PT",
+    "item-id" : "EPP1029",
+    "item-name" : "Electric Power Pressure Cooker XL (8 qt)",
+    "price" : 119.99,
+    "quantity" : 8
+}
+{
+    "_id" : "71829Y",
+    "item-id" : "IQ50009",
+    "item-name" : "KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black",
+    "price" : 5.79,
+    "quantity" : 23
+}
+{
+    "_id" : "30814B",
+    "item-id" : "3081414B",
+    "item-name" : "La Crosse Technology 308-1414B Wireless Atomic Digital Color Forecast Station",
+    "price" : 49.99,
+    "quantity" : 6
+}
+{
+    "_id" : "PAN110CFM",
+    "item-id" : "110CFM",
+    "item-name" : "Panasonic FV-11VQ5 WhisperCeiling 110 CFM Ceiling Mounted Fan, White",
+    "price" : 113.79,
+    "quantity" : 7
+}
+{
+    "_id" : "AS4175",
+    "item-id" : "AS4175",
+    "item-name" : "American Standard 4175.300.075 Colony Soft Pull-Down Kitchen Faucet, Stainless Steel",
+    "price" : 120,
+    "quantity" : 9
+}
+{
+    "_id" : "FM3700B",
+    "item-id" : "FM3700B",
+    "item-name" : "PUR Advanced Faucet Water Filter Chrome FM-3700B",
+    "price" : 23.95,
+    "quantity" : 27
+}
+{
+    "_id" : "ARC150SB",
+    "item-id" : "ARC150SB",
+    "item-name" : "Aroma 20 Cup Cooked (10 cup uncooked) Digital Rice Cooker, Slow Cooker",
+    "price" : 36.99,
+    "quantity" : 13
+}
+{
+    "_id" : "CPT180TST",
+    "item-id" : "CPT180TST",
+    "item-name" : "Cuisinart Metal Classic 4-Slice Toaster",
+    "price" : 69.99,
+    "quantity" : 6
+}
+{
+    "_id" : "GR4NWPAN",
+    "item-id" : "GR4NWPAN",
+    "item-name" : "Cuisinart Griddler® and Waffle Maker with Removable Plates",
+    "price" : 99.99,
+    "quantity" : 13
+}
